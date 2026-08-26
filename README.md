@@ -1,2 +1,4 @@
 # CIS25-cpp
-My C++ projects for CIS 25
+This repository contains my C++ projects and assignments for CIS 25
+## Projects
+- Chapter 3: Input, Expression, and Formatted Output
